@@ -13,7 +13,7 @@ interface TimeElapsed {
 
 export default function TimeCounter() {
   // Classic anniversary benchmark (e.g. May 29, 2018)
-  const ANNIVERSARY_DATE = new Date('2018-05-29T00:00:00'); 
+  const ANNIVERSARY_DATE = new Date('2016-05-29T00:00:00'); 
   const [elapsed, setElapsed] = useState<TimeElapsed>({ years: 0, months: 0, days: 0, hours: 0, minutes: 0, seconds: 0 });
 
   useEffect(() => {
