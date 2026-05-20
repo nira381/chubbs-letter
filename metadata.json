@@ -1,0 +1,6 @@
+{
+  "name": "L’Étoile - Cinematic Love Letter",
+  "description": "An ultra-premium cinematic digital memory gallery and romantic scrapbook built with fluid motion, ambient glow lighting, typography pairings, and structured memory groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
